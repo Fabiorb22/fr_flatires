@@ -5,7 +5,7 @@
 ### Instalación
 
 1. **Descargar el Recurso**:
-   - Ve al repositorio de fr_handsup en GitHub: (https://github.com/Fabiorb22/fr_flatires))
+   - Ve al repositorio de fr_handsup en GitHub: (https://github.com/Fabiorb22/fr_flatires)
    - Haz clic en el botón "Code" y luego selecciona "Download ZIP".
 
 2. **Extraer el archivo ZIP**:
